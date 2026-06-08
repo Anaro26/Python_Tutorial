@@ -1,0 +1,9 @@
+department_id,department_name,area,cost_center
+D01,Finance,Business,CC-101
+D02,Human Resources,Business,CC-102
+D03,Logistics,Operations,CC-103
+D04,Sales,Commercial,CC-104
+D05,Operations,Operations,CC-105
+D06,IT,Technology,CC-106
+D07,Project Management,Business,CC-107
+D08,Data Science,Technology,CC-108

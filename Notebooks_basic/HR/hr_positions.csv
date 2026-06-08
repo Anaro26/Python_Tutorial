@@ -1,0 +1,13 @@
+position_id,position_name,level,salary_band_min,salary_band_max
+P01,Intern,1,12000,18000
+P02,Working Student,1,14000,20000
+P03,Assistant,2,28000,36000
+P04,Junior Analyst,3,36000,46000
+P05,Analyst,4,44000,56000
+P06,Senior Analyst,5,54000,68000
+P07,Coordinator,5,52000,66000
+P08,Manager,6,66000,88000
+P09,Senior Manager,7,82000,105000
+P10,Director,8,100000,130000
+P11,VP,9,125000,160000
+P12,C-Level,10,150000,220000
